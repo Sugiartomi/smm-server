@@ -1,0 +1,16 @@
+[
+
+
+    {
+        "NIK" : "00105900588",
+        "nama" : "admin",
+        "departemen" : "IT",
+        "password" : "admin"
+    },
+    {
+        "NIK" : "00203000789",
+        "nama" : "karyawan",
+        "departemen" : "Produksi",
+        "password" : "karyawan"
+    }
+]

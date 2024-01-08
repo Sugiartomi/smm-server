@@ -1,0 +1,63 @@
+[
+    {
+        "nama" : "Buku Tulis 50s",
+        "lokasi" : "L1-R23",
+        "stock" : 100,
+        "satuan" : "Pak"
+    },
+    {
+        "nama" : "Meja 60x120",
+        "lokasi" : "L2-R11",
+        "stock" : 23,
+        "satuan" : "Pcs"
+    },
+    {
+        "nama" : "Kursi Kantor",
+        "lokasi" : "L2-R11",
+        "stock" : 87,
+        "satuan" : "Pcs"
+    },
+    {
+        "nama" : "Printer",
+        "lokasi" : "L3-R09",
+        "stock" : 6,
+        "satuan" : "Pcs"
+    },
+    {
+        "nama" : "White Board",
+        "lokasi" : "L1-R23",
+        "stock" : 15,
+        "satuan" : "Set"
+    },
+    {
+        "nama" : "Laptop Lenovo Thinkbook X1",
+        "lokasi" : "L1-R23",
+        "stock" : 35,
+        "satuan" : "pcs"
+    },
+    {
+        "nama" : "Computer Dell i7-12700",
+        "lokasi" : "L1-R23",
+        "stock" : 9,
+        "satuan" : "Set"
+    },
+    {
+        "nama" : "Baju Safety",
+        "lokasi" : "L4-R24",
+        "stock" : 60,
+        "satuan" : "Set"
+    },
+    {
+        "nama" : "Amplop Coklat",
+        "lokasi" : "L1-R1A",
+        "stock" : 200,
+        "satuan" : "Pak"
+    },
+    {
+        "nama" : "Ballpoint",
+        "lokasi" : "L1-R1A",
+        "stock" : 354,
+        "satuan" : "Pcs"
+    }
+
+]
