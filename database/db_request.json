@@ -19,7 +19,143 @@
         "goodsID" : 6,
         "userID" : 2,
         "qty" : 1,
-        "note" : "butuh cepat",
+        "note" : "warna hitam",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 6,
+        "userID" : 3,
+        "qty" : 1,
+        "note" : "warna biru",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 6,
+        "userID" : 4,
+        "qty" : 1,
+        "note" : "warna hijau",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 5,
+        "userID" : 2,
+        "qty" : 1,
+        "note" : "cepat!",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 5,
+        "userID" : 8,
+        "qty" : 1,
+        "note" : "cepat!",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 5,
+        "userID" : 9,
+        "qty" : 1,
+        "note" : "santai!",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 3,
+        "userID" : 3,
+        "qty" : 5,
+        "note" : "selasa dipake",
+        "status" : "WAITING"
+
+    },
+    {
+        "goodsID" : 3,
+        "userID" : 13,
+        "qty" : 5,
+        "note" : "kamis dipake",
+        "status" : "WAITING"
+
+    },
+    {
+        "goodsID" : 3,
+        "userID" : 14,
+        "qty" : 5,
+        "note" : "jumat dipake",
+        "status" : "WAITING"
+
+    },
+    {
+        "goodsID" : 6,
+        "userID" : 4,
+        "qty" : 1,
+        "note" : "santai",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 6,
+        "userID" : 5,
+        "qty" : 1,
+        "note" : "santai",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 6,
+        "userID" : 6,
+        "qty" : 1,
+        "note" : "santai",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 5,
+        "userID" : 4,
+        "qty" : 1,
+        "note" : "urgent",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 3,
+        "userID" : 9,
+        "qty" : 5,
+        "note" : "mantap",
+        "status" : "WAITING"
+
+    },
+    {
+        "goodsID" : 3,
+        "userID" : 10,
+        "qty" : 5,
+        "note" : "mantap",
+        "status" : "WAITING"
+
+    },
+    {
+        "goodsID" : 3,
+        "userID" : 11,
+        "qty" : 5,
+        "note" : "mantap",
+        "status" : "WAITING"
+
+    },
+    {
+        "goodsID" : 6,
+        "userID" : 5,
+        "qty" : 1,
+        "note" : "bismillah",
+        "status" : "DONE"
+
+    },
+    {
+        "goodsID" : 5,
+        "userID" : 5,
+        "qty" : 1,
+        "note" : "semoga cepat",
         "status" : "DONE"
 
     }

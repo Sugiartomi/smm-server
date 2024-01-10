@@ -10,6 +10,10 @@ router.get("/goods/:id", GoodsController.GoodsById)
 router.get("/goods", GoodsController.AllGoods)
 
 router.get("/request/:id", RequestController.RequestById)
+router.get("/request/change/:id", RequestController.ChangeStatus)
+router.get("/request/delete/:id", RequestController.DeleteRequest)
 router.get("/request", RequestController.AllRequests)
+router.post("/request", RequestController.AddRequest)
 
+router.get("/employees", UserController.AllEmployee)
 module.exports = router

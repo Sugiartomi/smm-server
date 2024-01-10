@@ -30,6 +30,15 @@ class UserController {
       res.status(400).json(error)
     }
   }
+
+  static async AllEmployee(req, res) {
+    try {
+      let result = await User.findAll()
+      res.status(200).json(result)
+    } catch (error) {
+      res.status(400).json(error)
+    }
+  }
 }
 
 module.exports = UserController

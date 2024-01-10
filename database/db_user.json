@@ -1,6 +1,4 @@
 [
-
-
     {
         "NIK" : "00105900588",
         "nama" : "admin",
@@ -9,8 +7,92 @@
     },
     {
         "NIK" : "00203000789",
-        "nama" : "karyawan",
-        "departemen" : "Produksi",
-        "password" : "karyawan"
+        "nama" : "user1",
+        "departemen" : "Cutting",
+        "password" : "user1"
+    },
+    {
+        "NIK" : "00203000788",
+        "nama" : "user2",
+        "departemen" : "Cutting",
+        "password" : "user2"
+    },
+    {
+        "NIK" : "00203000787",
+        "nama" : "user3",
+        "departemen" : "Cutting",
+        "password" : "user3"
+    },
+    {
+        "NIK" : "00103000889",
+        "nama" : "user4",
+        "departemen" : "Packing",
+        "password" : "user4"
+    },
+    {
+        "NIK" : "00103000888",
+        "nama" : "user5",
+        "departemen" : "Packing",
+        "password" : "user5"
+    },
+    {
+        "NIK" : "00103000887",
+        "nama" : "user6",
+        "departemen" : "Packing",
+        "password" : "user6"
+    },
+    {
+        "NIK" : "00603005789",
+        "nama" : "user7",
+        "departemen" : "Finance",
+        "password" : "user7"
+    },
+    {
+        "NIK" : "00603005788",
+        "nama" : "user8",
+        "departemen" : "Finance",
+        "password" : "user8"
+    },
+    {
+        "NIK" : "00603005787",
+        "nama" : "user9",
+        "departemen" : "Finance",
+        "password" : "user9"
+    },
+    {
+        "NIK" : "00103001733",
+        "nama" : "user10",
+        "departemen" : "Merchandiser",
+        "password" : "user10"
+    },
+    {
+        "NIK" : "00103001732",
+        "nama" : "user11",
+        "departemen" : "Merchandiser",
+        "password" : "user11"
+    },
+    {
+        "NIK" : "00103001732",
+        "nama" : "user12",
+        "departemen" : "Merchandiser",
+        "password" : "user12"
+    },
+    {
+        "NIK" : "00103000009",
+        "nama" : "user13",
+        "departemen" : "QA",
+        "password" : "user13"
+    },
+    {
+        "NIK" : "00103000008",
+        "nama" : "user14",
+        "departemen" : "QA",
+        "password" : "user14"
+    },
+    {
+        "NIK" : "00103000007",
+        "nama" : "user15",
+        "departemen" : "QA",
+        "password" : "user15"
     }
 ]
